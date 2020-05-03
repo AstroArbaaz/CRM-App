@@ -20,5 +20,5 @@ The REST API is created with Django REST framework and consumed with Axios.
 
 # To access the admin site
 > http://localhost:8000/admin/
->> username : administrator
+>> username : administrator,
 >> password : administrator
